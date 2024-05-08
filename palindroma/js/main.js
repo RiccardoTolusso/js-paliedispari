@@ -1,4 +1,6 @@
-const userInput = ""
+"use strict"
+
+const userInput = "ciao"
 
 function isPalindrome(myWord){
     if (myWord === "") return undefined;
